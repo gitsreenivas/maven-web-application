@@ -21,7 +21,7 @@
 		Martha Halli,
 		Bangalore,
 		+91-9980923226,
-		devopstrainingbr@gmail.com
+		sreenivas.gudipati@gmail.com
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
